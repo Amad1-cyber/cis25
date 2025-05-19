@@ -8,3 +8,4 @@ Read Me:
 #5 A code that checks the user for the use of a calculator, doing simple addition,
 subtraction, multiplication, and division.
 #6: A code that operates of an excluding of what is not 20.
+#7: main.cpp is the video game of 2D Game Square Hop. C++.
